@@ -2,13 +2,13 @@
 
 这里存放了我个人解答Leetcode时使用的题解.
 
-截至2023年6月19日, 一共解答出39题, 其中共有33题为独立解答, 13题有较优解.
+截至2023年6月19日, 一共解答出40题(简单), 其中共有34题为独立解答, 14题有较优解.
 
 注: 题号前带'*'代表本题的解答过程中参考了官方题解. 粗体题号代表解法为较优解(代码执行时间超过75%的提交记录的题解).
 
 | 题目编号 | 题目名称 | 解答时间 | 题解代码 |
 | :-------: | :----------: | :-------: | :-------: |
-| 1 | [两数之和](https://leetcode.com/problems/two-sum) | 2022年8月15日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/1.cpp) |
+| [color=green]1[/color] | [两数之和](https://leetcode.com/problems/two-sum) | 2022年8月15日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/1.cpp) |
 | 2 | [两数相加](https://leetcode.com/problems/add-two-numbers) | 2022年11月15日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/2.cpp) |
 | 3 | [无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 2022年8月16日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/3.cpp) |
 | **4** | [寻找两个正序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays) | 2022年8月16日 | [**C++**](https://github.com/tachibana0626/leetcode/blob/master/src/4.cpp) |
@@ -47,3 +47,4 @@
 | 1625 | [执行操作后字典序最小的字符串](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) | 2023年3月19日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/1625.cpp) |
 | 1630 | [等差子数组](https://leetcode.com/problems/arithmetic-subarrays) | 2023年3月23日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/1630.cpp) |
 | 1732 | [找到最高海拔](https://leetcode.com/problems/find-the-highest-altitude) | 2023年6月19日 | [ANSI-C](https://github.com/tachibana0626/leetcode/blob/master/src/1732.cpp) |
+| **2090** | [半径为 k 的子数组平均值](https://leetcode.com/problems/k-radius-subarray-averages) | 2023年6月20日 | [**Java**](https://github.com/tachibana0626/leetcode/blob/master/src/2090.java) |
