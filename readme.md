@@ -8,7 +8,7 @@
 
 | 题目编号 | 题目名称 | 解答时间 | 题解代码 |
 | :-------: | :----------: | :-------: | :-------: |
-| <font color="00af9b">1</font> | [两数之和](https://leetcode.com/problems/two-sum) | 2022年8月15日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/1.cpp) |
+| <font color="#00af9b">1</font> | [两数之和](https://leetcode.com/problems/two-sum) | 2022年8月15日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/1.cpp) |
 | $\color{FFB800}{2}$ | [两数相加](https://leetcode.com/problems/add-two-numbers) | 2022年11月15日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/2.cpp) |
 | $\color{FFB800}{3}$ | [无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 2022年8月16日 | [C++](https://github.com/tachibana0626/leetcode/blob/master/src/3.cpp) |
 | $\color{FF2D55}{**4**}$ | [寻找两个正序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays) | 2022年8月16日 | [**C++**](https://github.com/tachibana0626/leetcode/blob/master/src/4.cpp) |
