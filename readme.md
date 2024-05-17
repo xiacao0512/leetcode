@@ -2,7 +2,7 @@
 
 我fork了我朋友 Icelter (watercolor / tachibana) 的**Leetcode**仓库, 并继承了他的进度继续解答。
 
-截至2023年6月19日, 一共解答出40题(简单12题, 中等23题, 困难5题), 其中共有35题为独立解答, 15题有较优解.
+截至2024年5月17日, 一共解答出42题(简单12题, 中等25题, 困难5题), 其中共有34题为独立解答, 14题有较优解.
 
 注: 题号前带'*'代表本题的解答过程中参考了官方题解. 粗体题号代表解法为较优解(代码执行时间超过75%的提交记录的题解).
 
@@ -26,7 +26,7 @@
 | 21 | [合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists) | 2022年9月1日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/21.cpp) |
 | 24 | [两两交换链表中的节点](https://leetcode.com/problems/swap-nodes-in-pairs) | 2022年11月15日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/24.cpp) |
 | **27** | [移除元素](https://leetcode.com/problems/remove-element) | 2023年1月15日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/27.cpp) |
-| **28** | [找出字符串中第一个匹配项的下标](find-the-index-of-the-first-occurrence-in-a-string) | 2022年8月15日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/28.cpp) |
+| \*28 | [找出字符串中第一个匹配项的下标](find-the-index-of-the-first-occurrence-in-a-string) | 2022年8月15日 | N/A |
 | \*31 | [下一个排列](https://leetcode.com/problems/next-permutation) | 2022年8月16日 | N/A |
 | \*32 | [最长有效括号](https://leetcode.com/problems/longest-valid-parentheses) | 2023年1月15日 | N/A |
 | **35** | [搜索插入位置](https://leetcode.com/problems/search-insert-position) | 2022年9月10日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/35.cpp) |
@@ -44,6 +44,8 @@
 | 66 | [加一](https://leetcode.com/problems/plus-one) | 2023年3月3日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/66.cpp) |
 | **70** | [爬楼梯](https://leetcode.com/problems/climbing-stairs) | 2023年3月23日 | [**ANSI-C**](https://github.com/xiacao0512/leetcode/blob/master/src/70.c) |
 | **89** | [格雷编码](https://leetcode.com/problems/gray-code) | 2023年6月18日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/89.cpp) |
+| 826 | [安排工作以达到最大收益](https://leetcode.com/problems/most-profit-assigning-work) | 2024年5月17日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/826.cpp) |
+| 1325 | [删除给定值的叶子节点](https://leetcode.com/problems/delete-leaves-with-a-given-value) | 2024年5月17日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/1325.cpp) |
 | 1625 | [执行操作后字典序最小的字符串](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations) | 2023年3月19日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/1625.cpp) |
 | 1630 | [等差子数组](https://leetcode.com/problems/arithmetic-subarrays) | 2023年3月23日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/1630.cpp) |
 | 1732 | [找到最高海拔](https://leetcode.com/problems/find-the-highest-altitude) | 2023年6月19日 | [ANSI-C](https://github.com/xiacao0512/leetcode/blob/master/src/1732.cpp) |
