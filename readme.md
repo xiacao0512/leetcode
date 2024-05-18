@@ -1,8 +1,8 @@
 # Leetcode 个人题解放置场
 
-我fork了我朋友 Icelter (watercolor / tachibana) 的**Leetcode**仓库, 并继承了他的进度继续解答。
+我fork了我朋友 Icelter (watercolor / tachibana) 的 Leetcode 解答仓库, 并继承了他的进度继续解答。
 
-截至2024年5月17日, 一共解答出42题(简单12题, 中等25题, 困难5题), 其中共有34题为独立解答, 14题有较优解.
+截至2024年5月18日, 一共解答出42题(简单12题, 中等26题, 困难4题), 其中共有35题为独立解答, 15题有较优解.
 
 注: 题号前带'*'代表本题的解答过程中参考了官方题解. 粗体题号代表解法为较优解(代码执行时间超过75%的提交记录的题解).
 
@@ -13,6 +13,7 @@
 | 3 | [无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 2022年8月16日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/3.cpp) |
 | **4** | [寻找两个正序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays) | 2022年8月16日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/4.cpp) |
 | 5 | [最长回文子串](https://leetcode.com/problems/longest-palindromic-substring) | 2023年6月18日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/5.cpp) |
+| 6 | [Z 字形变换](https://leetcode.com/problems/zigzag-conversion) | 2024年5月18日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/6.cpp) |
 | **7** | [整数反转](https://leetcode.com/problems/reverse-integer) | 2022年8月16日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/7.cpp) |
 | **9** | [回文数](https://leetcode.com/problems/palindrome-number) | 2022年9月10日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/9.cpp) |
 | **11** | [盛最多水的容器](https://leetcode.com/problems/container-with-most-water) | 2022年9月1日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/11.cpp) |
@@ -32,7 +33,6 @@
 | **35** | [搜索插入位置](https://leetcode.com/problems/search-insert-position) | 2022年9月10日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/35.cpp) |
 | 36 | [有效的数独](https://leetcode.com/problems/valid-sudoku) | 2022年9月10日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/36.cpp) |
 | **38** | [外观数列](https://leetcode.com/problems/count-and-say) | 2022年10月5日 | [**C++**](https://github.com/xiacao0512/leetcode/blob/master/src/38.cpp) |
-| 41 | [缺失的第一个正数](https://leetcode.com/problems/first-missing-positive) | 2022年9月11日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/41.cpp) |
 | 42 | [接雨水](https://leetcode.com/problems/trapping-rain-water) | 2022年9月1日 | [ANSI-C](https://github.com/xiacao0512/leetcode/blob/master/src/42.c) |
 | \*45 | [跳跃游戏 II](https://leetcode.com/problems/jump-game-ii) | 2022年9月2日 | N/A |
 | 46 | [旋转图像](https://leetcode.com/problems/permutations) | 2023年6月19日 | [C++](https://github.com/xiacao0512/leetcode/blob/master/src/46.cpp) |
